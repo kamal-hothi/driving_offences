@@ -1,0 +1,19 @@
+---
+title: "Driver offences NZ"
+output: html_notebook
+---
+
+Driving offence data for NZ - sourced from police.govt.nz
+
+Original file -
+
+The following code reads different sheets from the spreadsheet, combining data for offences and fines by each offence type. There's a main data frame `offences_and_fines` which contains this set.
+
+Note - Sheets are hardcoded, hence tests must be done to double check total values.
+
+### Red Light Offences
+
+```{r red_light, echo=FALSE}
+
+```
+
