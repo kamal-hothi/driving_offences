@@ -11,9 +11,20 @@ The following code reads different sheets from the spreadsheet, combining data f
 
 Note - Sheets are hardcoded, hence tests must be done to double check total values.
 
+
+```{r load_libraries, include=FALSE}
+suppressPackageStartupMessages(library(tidyverse))
+suppressPackageStartupMessages(library("readxl"))
+suppressPackageStartupMessages(library("ggplot2"))
+suppressPackageStartupMessages(library("ggthemes"))
+suppressPackageStartupMessages(library("lubridate"))
+```
+
+
 ### Red Light Offences
 
 ```{r red_light, echo=FALSE}
 
+red_light_sheet <- read_excel("../data/road-policing-driver-offence-data-jan2009-sep2006.xlsx")
 ```
 
