@@ -21,10 +21,40 @@ suppressPackageStartupMessages(library("lubridate"))
 ```
 
 
-### Red Light Offences
+```{r globals, include=FALSE}
 
-```{r red_light, echo=FALSE}
+# General pattern for offence columns, the gap is to exclude year for consistent renaming. Update the range as new quarterly data comes through
+select_columns <- c(1:14,16:27,29:40,42:53,55:66,68:79,81:92,94:102)
+
+column_names <- c("area","sub_area",as.character(seq(as.Date("2009/1/1"), as.Date("2016/9/1"), "months")))
+
+
+# General function to restructure and reassign frames from different sheets
+restructureData <- function(dataFrame, typeOfOffence, countCategory){
+  column_names <- c("area","sub-area",as.character(seq(as.Date("2009/1/1"), as.Date("2016/9/1"), "months")))
+  
+  names(dataFrame) <- column_names
+  
+  dataFrame <- dataFrame %>% 
+                    gather('date', 'count', -area, -sub_area) %>% 
+                      mutate(date = as.Date(date), count = as.numeric(count))
+  
+  dataFrame[is.na(dataFrame)] <- 0
+  
+  dataFrame <- dataFrame %>% mutate(type_of_offence = typeOfOffence, count_category = countCategory)
+  
+  dataFrame
+                              
+}
+```
+
+
+### Offences_and_fines data
+
+```{r offences_and_fines, echo=FALSE}
 
 red_light_sheet <- read_excel("../data/road-policing-driver-offence-data-jan2009-sep2006.xlsx")
+
+
 ```
 
