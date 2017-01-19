@@ -1,0 +1,1024 @@
+month_year,type_of_offence,count_category,count
+2009-01-01,Alcohol specific offences,Fines,0.0
+2009-01-01,Alcohol specific offences,Offences,2683.0
+2009-01-01,Camera-issued speed offences,Fines,2530880.0
+2009-01-01,Camera-issued speed offences,Offences,26070.0
+2009-01-01,Drug specific offences,Offences,0.0
+2009-01-01,Mobile phone offences,Fines,0.0
+2009-01-01,Mobile phone offences,Offences,0.0
+2009-01-01,Officer-issued red light,Fines,146850.0
+2009-01-01,Officer-issued red light,Offences,979.0
+2009-01-01,Restraints,Fines,1053300.0
+2009-01-01,Restraints,Offences,7022.0
+2009-02-01,Alcohol specific offences,Fines,0.0
+2009-02-01,Alcohol specific offences,Offences,2266.0
+2009-02-01,Camera-issued speed offences,Fines,2319560.0
+2009-02-01,Camera-issued speed offences,Offences,28040.0
+2009-02-01,Drug specific offences,Offences,7.0
+2009-02-01,Mobile phone offences,Fines,0.0
+2009-02-01,Mobile phone offences,Offences,0.0
+2009-02-01,Officer-issued red light,Fines,166050.0
+2009-02-01,Officer-issued red light,Offences,1108.0
+2009-02-01,Restraints,Fines,936e3
+2009-02-01,Restraints,Offences,6242.0
+2009-03-01,Alcohol specific offences,Fines,0.0
+2009-03-01,Alcohol specific offences,Offences,2849.0
+2009-03-01,Camera-issued speed offences,Fines,1950890.0
+2009-03-01,Camera-issued speed offences,Offences,22400.0
+2009-03-01,Drug specific offences,Offences,8.0
+2009-03-01,Mobile phone offences,Fines,0.0
+2009-03-01,Mobile phone offences,Offences,0.0
+2009-03-01,Officer-issued red light,Fines,190610.0
+2009-03-01,Officer-issued red light,Offences,1271.0
+2009-03-01,Restraints,Fines,1327800.0
+2009-03-01,Restraints,Offences,8852.0
+2009-04-01,Alcohol specific offences,Fines,0.0
+2009-04-01,Alcohol specific offences,Offences,2866.0
+2009-04-01,Camera-issued speed offences,Fines,2944210.0
+2009-04-01,Camera-issued speed offences,Offences,31952.0
+2009-04-01,Drug specific offences,Offences,9.0
+2009-04-01,Mobile phone offences,Fines,0.0
+2009-04-01,Mobile phone offences,Offences,0.0
+2009-04-01,Officer-issued red light,Fines,163050.0
+2009-04-01,Officer-issued red light,Offences,1090.0
+2009-04-01,Restraints,Fines,831750.0
+2009-04-01,Restraints,Offences,5549.0
+2009-05-01,Alcohol specific offences,Fines,0.0
+2009-05-01,Alcohol specific offences,Offences,3047.0
+2009-05-01,Camera-issued speed offences,Fines,2073040.0
+2009-05-01,Camera-issued speed offences,Offences,24733.0
+2009-05-01,Drug specific offences,Offences,5.0
+2009-05-01,Mobile phone offences,Fines,0.0
+2009-05-01,Mobile phone offences,Offences,0.0
+2009-05-01,Officer-issued red light,Fines,151350.0
+2009-05-01,Officer-issued red light,Offences,1009.0
+2009-05-01,Restraints,Fines,779250.0
+2009-05-01,Restraints,Offences,5196.0
+2009-06-01,Alcohol specific offences,Fines,0.0
+2009-06-01,Alcohol specific offences,Offences,2685.0
+2009-06-01,Camera-issued speed offences,Fines,2079190.0
+2009-06-01,Camera-issued speed offences,Offences,25307.0
+2009-06-01,Drug specific offences,Offences,4.0
+2009-06-01,Mobile phone offences,Fines,0.0
+2009-06-01,Mobile phone offences,Offences,0.0
+2009-06-01,Officer-issued red light,Fines,170700.0
+2009-06-01,Officer-issued red light,Offences,1138.0
+2009-06-01,Restraints,Fines,784800.0
+2009-06-01,Restraints,Offences,5232.0
+2009-07-01,Alcohol specific offences,Fines,0.0
+2009-07-01,Alcohol specific offences,Offences,2867.0
+2009-07-01,Camera-issued speed offences,Fines,1946490.0
+2009-07-01,Camera-issued speed offences,Offences,23171.0
+2009-07-01,Drug specific offences,Offences,4.0
+2009-07-01,Mobile phone offences,Fines,0.0
+2009-07-01,Mobile phone offences,Offences,0.0
+2009-07-01,Officer-issued red light,Fines,153450.0
+2009-07-01,Officer-issued red light,Offences,1025.0
+2009-07-01,Restraints,Fines,783300.0
+2009-07-01,Restraints,Offences,5224.0
+2009-08-01,Alcohol specific offences,Fines,0.0
+2009-08-01,Alcohol specific offences,Offences,3308.0
+2009-08-01,Camera-issued speed offences,Fines,2030930.0
+2009-08-01,Camera-issued speed offences,Offences,25318.0
+2009-08-01,Drug specific offences,Offences,3.0
+2009-08-01,Mobile phone offences,Fines,0.0
+2009-08-01,Mobile phone offences,Offences,0.0
+2009-08-01,Officer-issued red light,Fines,169350.0
+2009-08-01,Officer-issued red light,Offences,1129.0
+2009-08-01,Restraints,Fines,851250.0
+2009-08-01,Restraints,Offences,5676.0
+2009-09-01,Alcohol specific offences,Fines,0.0
+2009-09-01,Alcohol specific offences,Offences,3030.0
+2009-09-01,Camera-issued speed offences,Fines,2044170.0
+2009-09-01,Camera-issued speed offences,Offences,24417.0
+2009-09-01,Drug specific offences,Offences,2.0
+2009-09-01,Mobile phone offences,Fines,0.0
+2009-09-01,Mobile phone offences,Offences,0.0
+2009-09-01,Officer-issued red light,Fines,149850.0
+2009-09-01,Officer-issued red light,Offences,1e3
+2009-09-01,Restraints,Fines,1002600.0
+2009-09-01,Restraints,Offences,6686.0
+2009-10-01,Alcohol specific offences,Fines,0.0
+2009-10-01,Alcohol specific offences,Offences,3122.0
+2009-10-01,Camera-issued speed offences,Fines,2706680.0
+2009-10-01,Camera-issued speed offences,Offences,32301.0
+2009-10-01,Drug specific offences,Offences,2.0
+2009-10-01,Mobile phone offences,Fines,0.0
+2009-10-01,Mobile phone offences,Offences,0.0
+2009-10-01,Officer-issued red light,Fines,178200.0
+2009-10-01,Officer-issued red light,Offences,1188.0
+2009-10-01,Restraints,Fines,891500.0
+2009-10-01,Restraints,Offences,5943.0
+2009-11-01,Alcohol specific offences,Fines,0.0
+2009-11-01,Alcohol specific offences,Offences,2741.0
+2009-11-01,Camera-issued speed offences,Fines,2686410.0
+2009-11-01,Camera-issued speed offences,Offences,33533.0
+2009-11-01,Drug specific offences,Offences,20.0
+2009-11-01,Mobile phone offences,Fines,37510.0
+2009-11-01,Mobile phone offences,Offences,468.0
+2009-11-01,Officer-issued red light,Fines,148050.0
+2009-11-01,Officer-issued red light,Offences,987.0
+2009-11-01,Restraints,Fines,893100.0
+2009-11-01,Restraints,Offences,5954.0
+2009-12-01,Alcohol specific offences,Fines,0.0
+2009-12-01,Alcohol specific offences,Offences,2993.0
+2009-12-01,Camera-issued speed offences,Fines,2823950.0
+2009-12-01,Camera-issued speed offences,Offences,32498.0
+2009-12-01,Drug specific offences,Offences,39.0
+2009-12-01,Mobile phone offences,Fines,36010.0
+2009-12-01,Mobile phone offences,Offences,449.0
+2009-12-01,Officer-issued red light,Fines,145800.0
+2009-12-01,Officer-issued red light,Offences,972.0
+2009-12-01,Restraints,Fines,984e3
+2009-12-01,Restraints,Offences,6562.0
+2010-01-01,Alcohol specific offences,Fines,0.0
+2010-01-01,Alcohol specific offences,Offences,2342.0
+2010-01-01,Camera-issued speed offences,Fines,2850020.0
+2010-01-01,Camera-issued speed offences,Offences,29563.0
+2010-01-01,Drug specific offences,Offences,20.0
+2010-01-01,Mobile phone offences,Fines,36030.0
+2010-01-01,Mobile phone offences,Offences,449.0
+2010-01-01,Officer-issued red light,Fines,119700.0
+2010-01-01,Officer-issued red light,Offences,798.0
+2010-01-01,Restraints,Fines,891300.0
+2010-01-01,Restraints,Offences,5943.0
+2010-02-01,Alcohol specific offences,Fines,0.0
+2010-02-01,Alcohol specific offences,Offences,2380.0
+2010-02-01,Camera-issued speed offences,Fines,3251810.0
+2010-02-01,Camera-issued speed offences,Offences,38705.0
+2010-02-01,Drug specific offences,Offences,18.0
+2010-02-01,Mobile phone offences,Fines,51120.0
+2010-02-01,Mobile phone offences,Offences,637.0
+2010-02-01,Officer-issued red light,Fines,148800.0
+2010-02-01,Officer-issued red light,Offences,992.0
+2010-02-01,Restraints,Fines,882450.0
+2010-02-01,Restraints,Offences,5883.0
+2010-03-01,Alcohol specific offences,Fines,0.0
+2010-03-01,Alcohol specific offences,Offences,2456.0
+2010-03-01,Camera-issued speed offences,Fines,4384020.0
+2010-03-01,Camera-issued speed offences,Offences,54905.0
+2010-03-01,Drug specific offences,Offences,28.0
+2010-03-01,Mobile phone offences,Fines,55990.0
+2010-03-01,Mobile phone offences,Offences,701.0
+2010-03-01,Officer-issued red light,Fines,153450.0
+2010-03-01,Officer-issued red light,Offences,1023.0
+2010-03-01,Restraints,Fines,1253700.0
+2010-03-01,Restraints,Offences,8359.0
+2010-04-01,Alcohol specific offences,Fines,0.0
+2010-04-01,Alcohol specific offences,Offences,2506.0
+2010-04-01,Camera-issued speed offences,Fines,4588350.0
+2010-04-01,Camera-issued speed offences,Offences,51868.0
+2010-04-01,Drug specific offences,Offences,40.0
+2010-04-01,Mobile phone offences,Fines,52710.0
+2010-04-01,Mobile phone offences,Offences,659.0
+2010-04-01,Officer-issued red light,Fines,148950.0
+2010-04-01,Officer-issued red light,Offences,993.0
+2010-04-01,Restraints,Fines,866550.0
+2010-04-01,Restraints,Offences,5778.0
+2010-05-01,Alcohol specific offences,Fines,0.0
+2010-05-01,Alcohol specific offences,Offences,2883.0
+2010-05-01,Camera-issued speed offences,Fines,4807960.0
+2010-05-01,Camera-issued speed offences,Offences,59073.0
+2010-05-01,Drug specific offences,Offences,30.0
+2010-05-01,Mobile phone offences,Fines,49840.0
+2010-05-01,Mobile phone offences,Offences,623.0
+2010-05-01,Officer-issued red light,Fines,152100.0
+2010-05-01,Officer-issued red light,Offences,1015.0
+2010-05-01,Restraints,Fines,738680.0
+2010-05-01,Restraints,Offences,4925.0
+2010-06-01,Alcohol specific offences,Fines,0.0
+2010-06-01,Alcohol specific offences,Offences,2485.0
+2010-06-01,Camera-issued speed offences,Fines,3822230.0
+2010-06-01,Camera-issued speed offences,Offences,52131.0
+2010-06-01,Drug specific offences,Offences,29.0
+2010-06-01,Mobile phone offences,Fines,51760.0
+2010-06-01,Mobile phone offences,Offences,645.0
+2010-06-01,Officer-issued red light,Fines,159750.0
+2010-06-01,Officer-issued red light,Offences,1066.0
+2010-06-01,Restraints,Fines,806850.0
+2010-06-01,Restraints,Offences,5381.0
+2010-07-01,Alcohol specific offences,Fines,0.0
+2010-07-01,Alcohol specific offences,Offences,2721.0
+2010-07-01,Camera-issued speed offences,Fines,4193700.0
+2010-07-01,Camera-issued speed offences,Offences,49295.0
+2010-07-01,Drug specific offences,Offences,22.0
+2010-07-01,Mobile phone offences,Fines,55770.0
+2010-07-01,Mobile phone offences,Offences,697.0
+2010-07-01,Officer-issued red light,Fines,141750.0
+2010-07-01,Officer-issued red light,Offences,945.0
+2010-07-01,Restraints,Fines,762450.0
+2010-07-01,Restraints,Offences,5083.0
+2010-08-01,Alcohol specific offences,Fines,0.0
+2010-08-01,Alcohol specific offences,Offences,2518.0
+2010-08-01,Camera-issued speed offences,Fines,3743420.0
+2010-08-01,Camera-issued speed offences,Offences,47543.0
+2010-08-01,Drug specific offences,Offences,32.0
+2010-08-01,Mobile phone offences,Fines,69230.0
+2010-08-01,Mobile phone offences,Offences,863.0
+2010-08-01,Officer-issued red light,Fines,167100.0
+2010-08-01,Officer-issued red light,Offences,1114.0
+2010-08-01,Restraints,Fines,891150.0
+2010-08-01,Restraints,Offences,5941.0
+2010-09-01,Alcohol specific offences,Fines,0.0
+2010-09-01,Alcohol specific offences,Offences,2751.0
+2010-09-01,Camera-issued speed offences,Fines,4162470.0
+2010-09-01,Camera-issued speed offences,Offences,51157.0
+2010-09-01,Drug specific offences,Offences,19.0
+2010-09-01,Mobile phone offences,Fines,56290.0
+2010-09-01,Mobile phone offences,Offences,704.0
+2010-09-01,Officer-issued red light,Fines,153300.0
+2010-09-01,Officer-issued red light,Offences,1022.0
+2010-09-01,Restraints,Fines,839250.0
+2010-09-01,Restraints,Offences,5595.0
+2010-10-01,Alcohol specific offences,Fines,0.0
+2010-10-01,Alcohol specific offences,Offences,2876.0
+2010-10-01,Camera-issued speed offences,Fines,5104600.0
+2010-10-01,Camera-issued speed offences,Offences,68827.0
+2010-10-01,Drug specific offences,Offences,15.0
+2010-10-01,Mobile phone offences,Fines,65220.0
+2010-10-01,Mobile phone offences,Offences,815.0
+2010-10-01,Officer-issued red light,Fines,156750.0
+2010-10-01,Officer-issued red light,Offences,1045.0
+2010-10-01,Restraints,Fines,907950.0
+2010-10-01,Restraints,Offences,6054.0
+2010-11-01,Alcohol specific offences,Fines,0.0
+2010-11-01,Alcohol specific offences,Offences,2487.0
+2010-11-01,Camera-issued speed offences,Fines,4284e3
+2010-11-01,Camera-issued speed offences,Offences,53381.0
+2010-11-01,Drug specific offences,Offences,15.0
+2010-11-01,Mobile phone offences,Fines,56950.0
+2010-11-01,Mobile phone offences,Offences,711.0
+2010-11-01,Officer-issued red light,Fines,146250.0
+2010-11-01,Officer-issued red light,Offences,975.0
+2010-11-01,Restraints,Fines,844500.0
+2010-11-01,Restraints,Offences,5631.0
+2010-12-01,Alcohol specific offences,Fines,0.0
+2010-12-01,Alcohol specific offences,Offences,2894.0
+2010-12-01,Camera-issued speed offences,Fines,4887120.0
+2010-12-01,Camera-issued speed offences,Offences,71488.0
+2010-12-01,Drug specific offences,Offences,14.0
+2010-12-01,Mobile phone offences,Fines,58210.0
+2010-12-01,Mobile phone offences,Offences,728.0
+2010-12-01,Officer-issued red light,Fines,140550.0
+2010-12-01,Officer-issued red light,Offences,938.0
+2010-12-01,Restraints,Fines,872550.0
+2010-12-01,Restraints,Offences,5818.0
+2011-01-01,Alcohol specific offences,Fines,0.0
+2011-01-01,Alcohol specific offences,Offences,2188.0
+2011-01-01,Camera-issued speed offences,Fines,4249240.0
+2011-01-01,Camera-issued speed offences,Offences,49168.0
+2011-01-01,Drug specific offences,Offences,18.0
+2011-01-01,Mobile phone offences,Fines,46410.0
+2011-01-01,Mobile phone offences,Offences,580.0
+2011-01-01,Officer-issued red light,Fines,129150.0
+2011-01-01,Officer-issued red light,Offences,862.0
+2011-01-01,Restraints,Fines,783e3
+2011-01-01,Restraints,Offences,5220.0
+2011-02-01,Alcohol specific offences,Fines,0.0
+2011-02-01,Alcohol specific offences,Offences,2194.0
+2011-02-01,Camera-issued speed offences,Fines,3378e3
+2011-02-01,Camera-issued speed offences,Offences,40243.0
+2011-02-01,Drug specific offences,Offences,11.0
+2011-02-01,Mobile phone offences,Fines,59155.0
+2011-02-01,Mobile phone offences,Offences,729.0
+2011-02-01,Officer-issued red light,Fines,124350.0
+2011-02-01,Officer-issued red light,Offences,830.0
+2011-02-01,Restraints,Fines,700100.0
+2011-02-01,Restraints,Offences,4669.0
+2011-03-01,Alcohol specific offences,Fines,0.0
+2011-03-01,Alcohol specific offences,Offences,2380.0
+2011-03-01,Camera-issued speed offences,Fines,4248120.0
+2011-03-01,Camera-issued speed offences,Offences,51927.0
+2011-03-01,Drug specific offences,Offences,8.0
+2011-03-01,Mobile phone offences,Fines,61440.0
+2011-03-01,Mobile phone offences,Offences,768.0
+2011-03-01,Officer-issued red light,Fines,161250.0
+2011-03-01,Officer-issued red light,Offences,1075.0
+2011-03-01,Restraints,Fines,724500.0
+2011-03-01,Restraints,Offences,4832.0
+2011-04-01,Alcohol specific offences,Fines,0.0
+2011-04-01,Alcohol specific offences,Offences,2764.0
+2011-04-01,Camera-issued speed offences,Fines,4448240.0
+2011-04-01,Camera-issued speed offences,Offences,59331.0
+2011-04-01,Drug specific offences,Offences,13.0
+2011-04-01,Mobile phone offences,Fines,56050.0
+2011-04-01,Mobile phone offences,Offences,698.0
+2011-04-01,Officer-issued red light,Fines,151350.0
+2011-04-01,Officer-issued red light,Offences,1009.0
+2011-04-01,Restraints,Fines,627600.0
+2011-04-01,Restraints,Offences,4184.0
+2011-05-01,Alcohol specific offences,Fines,0.0
+2011-05-01,Alcohol specific offences,Offences,2950.0
+2011-05-01,Camera-issued speed offences,Fines,4162870.0
+2011-05-01,Camera-issued speed offences,Offences,53031.0
+2011-05-01,Drug specific offences,Offences,24.0
+2011-05-01,Mobile phone offences,Fines,61528.0
+2011-05-01,Mobile phone offences,Offences,770.0
+2011-05-01,Officer-issued red light,Fines,150600.0
+2011-05-01,Officer-issued red light,Offences,1006.0
+2011-05-01,Restraints,Fines,613650.0
+2011-05-01,Restraints,Offences,4091.0
+2011-06-01,Alcohol specific offences,Fines,0.0
+2011-06-01,Alcohol specific offences,Offences,2656.0
+2011-06-01,Camera-issued speed offences,Fines,3497160.0
+2011-06-01,Camera-issued speed offences,Offences,48982.0
+2011-06-01,Drug specific offences,Offences,28.0
+2011-06-01,Mobile phone offences,Fines,58880.0
+2011-06-01,Mobile phone offences,Offences,736.0
+2011-06-01,Officer-issued red light,Fines,151650.0
+2011-06-01,Officer-issued red light,Offences,1011.0
+2011-06-01,Restraints,Fines,558e3
+2011-06-01,Restraints,Offences,3720.0
+2011-07-01,Alcohol specific offences,Fines,0.0
+2011-07-01,Alcohol specific offences,Offences,2602.0
+2011-07-01,Camera-issued speed offences,Fines,3385090.0
+2011-07-01,Camera-issued speed offences,Offences,38784.0
+2011-07-01,Drug specific offences,Offences,24.0
+2011-07-01,Mobile phone offences,Fines,57840.0
+2011-07-01,Mobile phone offences,Offences,723.0
+2011-07-01,Officer-issued red light,Fines,156e3
+2011-07-01,Officer-issued red light,Offences,1040.0
+2011-07-01,Restraints,Fines,640350.0
+2011-07-01,Restraints,Offences,4269.0
+2011-08-01,Alcohol specific offences,Fines,18e3
+2011-08-01,Alcohol specific offences,Offences,2480.0
+2011-08-01,Camera-issued speed offences,Fines,4791610.0
+2011-08-01,Camera-issued speed offences,Offences,57854.0
+2011-08-01,Drug specific offences,Offences,18.0
+2011-08-01,Mobile phone offences,Fines,79280.0
+2011-08-01,Mobile phone offences,Offences,991.0
+2011-08-01,Officer-issued red light,Fines,167550.0
+2011-08-01,Officer-issued red light,Offences,1117.0
+2011-08-01,Restraints,Fines,763650.0
+2011-08-01,Restraints,Offences,5091.0
+2011-09-01,Alcohol specific offences,Fines,25800.0
+2011-09-01,Alcohol specific offences,Offences,2670.0
+2011-09-01,Camera-issued speed offences,Fines,4379350.0
+2011-09-01,Camera-issued speed offences,Offences,52727.0
+2011-09-01,Drug specific offences,Offences,15.0
+2011-09-01,Mobile phone offences,Fines,78560.0
+2011-09-01,Mobile phone offences,Offences,982.0
+2011-09-01,Officer-issued red light,Fines,146850.0
+2011-09-01,Officer-issued red light,Offences,979.0
+2011-09-01,Restraints,Fines,833400.0
+2011-09-01,Restraints,Offences,5556.0
+2011-10-01,Alcohol specific offences,Fines,25600.0
+2011-10-01,Alcohol specific offences,Offences,2710.0
+2011-10-01,Camera-issued speed offences,Fines,4695340.0
+2011-10-01,Camera-issued speed offences,Offences,60935.0
+2011-10-01,Drug specific offences,Offences,19.0
+2011-10-01,Mobile phone offences,Fines,87120.0
+2011-10-01,Mobile phone offences,Offences,1089.0
+2011-10-01,Officer-issued red light,Fines,141750.0
+2011-10-01,Officer-issued red light,Offences,945.0
+2011-10-01,Restraints,Fines,883050.0
+2011-10-01,Restraints,Offences,5887.0
+2011-11-01,Alcohol specific offences,Fines,18800.0
+2011-11-01,Alcohol specific offences,Offences,2240.0
+2011-11-01,Camera-issued speed offences,Fines,4093770.0
+2011-11-01,Camera-issued speed offences,Offences,48647.0
+2011-11-01,Drug specific offences,Offences,23.0
+2011-11-01,Mobile phone offences,Fines,102800.0
+2011-11-01,Mobile phone offences,Offences,1286.0
+2011-11-01,Officer-issued red light,Fines,129150.0
+2011-11-01,Officer-issued red light,Offences,861.0
+2011-11-01,Restraints,Fines,918900.0
+2011-11-01,Restraints,Offences,6126.0
+2011-12-01,Alcohol specific offences,Fines,27600.0
+2011-12-01,Alcohol specific offences,Offences,2948.0
+2011-12-01,Camera-issued speed offences,Fines,4599040.0
+2011-12-01,Camera-issued speed offences,Offences,65952.0
+2011-12-01,Drug specific offences,Offences,19.0
+2011-12-01,Mobile phone offences,Fines,76160.0
+2011-12-01,Mobile phone offences,Offences,952.0
+2011-12-01,Officer-issued red light,Fines,130200.0
+2011-12-01,Officer-issued red light,Offences,868.0
+2011-12-01,Restraints,Fines,779550.0
+2011-12-01,Restraints,Offences,5198.0
+2012-01-01,Alcohol specific offences,Fines,20400.0
+2012-01-01,Alcohol specific offences,Offences,2069.0
+2012-01-01,Camera-issued speed offences,Fines,3971130.0
+2012-01-01,Camera-issued speed offences,Offences,45532.0
+2012-01-01,Drug specific offences,Offences,18.0
+2012-01-01,Mobile phone offences,Fines,69600.0
+2012-01-01,Mobile phone offences,Offences,870.0
+2012-01-01,Officer-issued red light,Fines,132300.0
+2012-01-01,Officer-issued red light,Offences,882.0
+2012-01-01,Restraints,Fines,762750.0
+2012-01-01,Restraints,Offences,5085.0
+2012-02-01,Alcohol specific offences,Fines,17400.0
+2012-02-01,Alcohol specific offences,Offences,1996.0
+2012-02-01,Camera-issued speed offences,Fines,5320190.0
+2012-02-01,Camera-issued speed offences,Offences,114907.0
+2012-02-01,Drug specific offences,Offences,16.0
+2012-02-01,Mobile phone offences,Fines,77840.0
+2012-02-01,Mobile phone offences,Offences,973.0
+2012-02-01,Officer-issued red light,Fines,139500.0
+2012-02-01,Officer-issued red light,Offences,931.0
+2012-02-01,Restraints,Fines,691500.0
+2012-02-01,Restraints,Offences,4610.0
+2012-03-01,Alcohol specific offences,Fines,17200.0
+2012-03-01,Alcohol specific offences,Offences,2422.0
+2012-03-01,Camera-issued speed offences,Fines,3147690.0
+2012-03-01,Camera-issued speed offences,Offences,37773.0
+2012-03-01,Drug specific offences,Offences,21.0
+2012-03-01,Mobile phone offences,Fines,74880.0
+2012-03-01,Mobile phone offences,Offences,936.0
+2012-03-01,Officer-issued red light,Fines,131550.0
+2012-03-01,Officer-issued red light,Offences,877.0
+2012-03-01,Restraints,Fines,645450.0
+2012-03-01,Restraints,Offences,4304.0
+2012-04-01,Alcohol specific offences,Fines,18400.0
+2012-04-01,Alcohol specific offences,Offences,2323.0
+2012-04-01,Camera-issued speed offences,Fines,3286170.0
+2012-04-01,Camera-issued speed offences,Offences,41968.0
+2012-04-01,Drug specific offences,Offences,20.0
+2012-04-01,Mobile phone offences,Fines,65120.0
+2012-04-01,Mobile phone offences,Offences,814.0
+2012-04-01,Officer-issued red light,Fines,114600.0
+2012-04-01,Officer-issued red light,Offences,764.0
+2012-04-01,Restraints,Fines,543300.0
+2012-04-01,Restraints,Offences,3623.0
+2012-05-01,Alcohol specific offences,Fines,17200.0
+2012-05-01,Alcohol specific offences,Offences,2376.0
+2012-05-01,Camera-issued speed offences,Fines,3224510.0
+2012-05-01,Camera-issued speed offences,Offences,40602.0
+2012-05-01,Drug specific offences,Offences,32.0
+2012-05-01,Mobile phone offences,Fines,88320.0
+2012-05-01,Mobile phone offences,Offences,1104.0
+2012-05-01,Officer-issued red light,Fines,137400.0
+2012-05-01,Officer-issued red light,Offences,917.0
+2012-05-01,Restraints,Fines,635250.0
+2012-05-01,Restraints,Offences,4235.0
+2012-06-01,Alcohol specific offences,Fines,17e3
+2012-06-01,Alcohol specific offences,Offences,2306.0
+2012-06-01,Camera-issued speed offences,Fines,3304760.0
+2012-06-01,Camera-issued speed offences,Offences,46026.0
+2012-06-01,Drug specific offences,Offences,32.0
+2012-06-01,Mobile phone offences,Fines,60720.0
+2012-06-01,Mobile phone offences,Offences,759.0
+2012-06-01,Officer-issued red light,Fines,126e3
+2012-06-01,Officer-issued red light,Offences,840.0
+2012-06-01,Restraints,Fines,522450.0
+2012-06-01,Restraints,Offences,3483.0
+2012-07-01,Alcohol specific offences,Fines,14800.0
+2012-07-01,Alcohol specific offences,Offences,2263.0
+2012-07-01,Camera-issued speed offences,Fines,3650060.0
+2012-07-01,Camera-issued speed offences,Offences,42164.0
+2012-07-01,Drug specific offences,Offences,23.0
+2012-07-01,Mobile phone offences,Fines,72640.0
+2012-07-01,Mobile phone offences,Offences,908.0
+2012-07-01,Officer-issued red light,Fines,130200.0
+2012-07-01,Officer-issued red light,Offences,868.0
+2012-07-01,Restraints,Fines,590400.0
+2012-07-01,Restraints,Offences,3937.0
+2012-08-01,Alcohol specific offences,Fines,17400.0
+2012-08-01,Alcohol specific offences,Offences,2355.0
+2012-08-01,Camera-issued speed offences,Fines,3367220.0
+2012-08-01,Camera-issued speed offences,Offences,41423.0
+2012-08-01,Drug specific offences,Offences,24.0
+2012-08-01,Mobile phone offences,Fines,99200.0
+2012-08-01,Mobile phone offences,Offences,1240.0
+2012-08-01,Officer-issued red light,Fines,141300.0
+2012-08-01,Officer-issued red light,Offences,942.0
+2012-08-01,Restraints,Fines,735300.0
+2012-08-01,Restraints,Offences,4902.0
+2012-09-01,Alcohol specific offences,Fines,16600.0
+2012-09-01,Alcohol specific offences,Offences,2286.0
+2012-09-01,Camera-issued speed offences,Fines,2936280.0
+2012-09-01,Camera-issued speed offences,Offences,36208.0
+2012-09-01,Drug specific offences,Offences,21.0
+2012-09-01,Mobile phone offences,Fines,82720.0
+2012-09-01,Mobile phone offences,Offences,1034.0
+2012-09-01,Officer-issued red light,Fines,120900.0
+2012-09-01,Officer-issued red light,Offences,806.0
+2012-09-01,Restraints,Fines,700200.0
+2012-09-01,Restraints,Offences,4668.0
+2012-10-01,Alcohol specific offences,Fines,19200.0
+2012-10-01,Alcohol specific offences,Offences,2305.0
+2012-10-01,Camera-issued speed offences,Fines,3595350.0
+2012-10-01,Camera-issued speed offences,Offences,48677.0
+2012-10-01,Drug specific offences,Offences,12.0
+2012-10-01,Mobile phone offences,Fines,82640.0
+2012-10-01,Mobile phone offences,Offences,1033.0
+2012-10-01,Officer-issued red light,Fines,113100.0
+2012-10-01,Officer-issued red light,Offences,754.0
+2012-10-01,Restraints,Fines,670650.0
+2012-10-01,Restraints,Offences,4471.0
+2012-11-01,Alcohol specific offences,Fines,16800.0
+2012-11-01,Alcohol specific offences,Offences,2303.0
+2012-11-01,Camera-issued speed offences,Fines,3047050.0
+2012-11-01,Camera-issued speed offences,Offences,37384.0
+2012-11-01,Drug specific offences,Offences,22.0
+2012-11-01,Mobile phone offences,Fines,129840.0
+2012-11-01,Mobile phone offences,Offences,1623.0
+2012-11-01,Officer-issued red light,Fines,125100.0
+2012-11-01,Officer-issued red light,Offences,834.0
+2012-11-01,Restraints,Fines,829050.0
+2012-11-01,Restraints,Offences,5527.0
+2012-12-01,Alcohol specific offences,Fines,21800.0
+2012-12-01,Alcohol specific offences,Offences,2639.0
+2012-12-01,Camera-issued speed offences,Fines,3287740.0
+2012-12-01,Camera-issued speed offences,Offences,51387.0
+2012-12-01,Drug specific offences,Offences,42.0
+2012-12-01,Mobile phone offences,Fines,87920.0
+2012-12-01,Mobile phone offences,Offences,1099.0
+2012-12-01,Officer-issued red light,Fines,114150.0
+2012-12-01,Officer-issued red light,Offences,761.0
+2012-12-01,Restraints,Fines,726e3
+2012-12-01,Restraints,Offences,4840.0
+2013-01-01,Alcohol specific offences,Fines,13600.0
+2013-01-01,Alcohol specific offences,Offences,1890.0
+2013-01-01,Camera-issued speed offences,Fines,3364940.0
+2013-01-01,Camera-issued speed offences,Offences,44097.0
+2013-01-01,Drug specific offences,Offences,15.0
+2013-01-01,Mobile phone offences,Fines,63760.0
+2013-01-01,Mobile phone offences,Offences,797.0
+2013-01-01,Officer-issued red light,Fines,93450.0
+2013-01-01,Officer-issued red light,Offences,623.0
+2013-01-01,Restraints,Fines,651300.0
+2013-01-01,Restraints,Offences,4343.0
+2013-02-01,Alcohol specific offences,Fines,12200.0
+2013-02-01,Alcohol specific offences,Offences,1787.0
+2013-02-01,Camera-issued speed offences,Fines,3167690.0
+2013-02-01,Camera-issued speed offences,Offences,39196.0
+2013-02-01,Drug specific offences,Offences,14.0
+2013-02-01,Mobile phone offences,Fines,66240.0
+2013-02-01,Mobile phone offences,Offences,829.0
+2013-02-01,Officer-issued red light,Fines,91650.0
+2013-02-01,Officer-issued red light,Offences,611.0
+2013-02-01,Restraints,Fines,588450.0
+2013-02-01,Restraints,Offences,3923.0
+2013-03-01,Alcohol specific offences,Fines,16e3
+2013-03-01,Alcohol specific offences,Offences,2316.0
+2013-03-01,Camera-issued speed offences,Fines,3458800.0
+2013-03-01,Camera-issued speed offences,Offences,47048.0
+2013-03-01,Drug specific offences,Offences,25.0
+2013-03-01,Mobile phone offences,Fines,82400.0
+2013-03-01,Mobile phone offences,Offences,1030.0
+2013-03-01,Officer-issued red light,Fines,117e3
+2013-03-01,Officer-issued red light,Offences,780.0
+2013-03-01,Restraints,Fines,615150.0
+2013-03-01,Restraints,Offences,4110.0
+2013-04-01,Alcohol specific offences,Fines,13800.0
+2013-04-01,Alcohol specific offences,Offences,1928.0
+2013-04-01,Camera-issued speed offences,Fines,2928730.0
+2013-04-01,Camera-issued speed offences,Offences,37176.0
+2013-04-01,Drug specific offences,Offences,23.0
+2013-04-01,Mobile phone offences,Fines,75440.0
+2013-04-01,Mobile phone offences,Offences,943.0
+2013-04-01,Officer-issued red light,Fines,113400.0
+2013-04-01,Officer-issued red light,Offences,756.0
+2013-04-01,Restraints,Fines,535350.0
+2013-04-01,Restraints,Offences,3569.0
+2013-05-01,Alcohol specific offences,Fines,9600.0
+2013-05-01,Alcohol specific offences,Offences,2035.0
+2013-05-01,Camera-issued speed offences,Fines,3161040.0
+2013-05-01,Camera-issued speed offences,Offences,42333.0
+2013-05-01,Drug specific offences,Offences,26.0
+2013-05-01,Mobile phone offences,Fines,87200.0
+2013-05-01,Mobile phone offences,Offences,1090.0
+2013-05-01,Officer-issued red light,Fines,147600.0
+2013-05-01,Officer-issued red light,Offences,984.0
+2013-05-01,Restraints,Fines,535350.0
+2013-05-01,Restraints,Offences,3569.0
+2013-06-01,Alcohol specific offences,Fines,13200.0
+2013-06-01,Alcohol specific offences,Offences,2229.0
+2013-06-01,Camera-issued speed offences,Fines,3331220.0
+2013-06-01,Camera-issued speed offences,Offences,48175.0
+2013-06-01,Drug specific offences,Offences,23.0
+2013-06-01,Mobile phone offences,Fines,73680.0
+2013-06-01,Mobile phone offences,Offences,921.0
+2013-06-01,Officer-issued red light,Fines,124800.0
+2013-06-01,Officer-issued red light,Offences,832.0
+2013-06-01,Restraints,Fines,482100.0
+2013-06-01,Restraints,Offences,3214.0
+2013-07-01,Alcohol specific offences,Fines,13200.0
+2013-07-01,Alcohol specific offences,Offences,2006.0
+2013-07-01,Camera-issued speed offences,Fines,3351770.0
+2013-07-01,Camera-issued speed offences,Offences,40491.0
+2013-07-01,Drug specific offences,Offences,13.0
+2013-07-01,Mobile phone offences,Fines,88e3
+2013-07-01,Mobile phone offences,Offences,1100.0
+2013-07-01,Officer-issued red light,Fines,125400.0
+2013-07-01,Officer-issued red light,Offences,836.0
+2013-07-01,Restraints,Fines,737100.0
+2013-07-01,Restraints,Offences,4914.0
+2013-08-01,Alcohol specific offences,Fines,11800.0
+2013-08-01,Alcohol specific offences,Offences,2178.0
+2013-08-01,Camera-issued speed offences,Fines,3557360.0
+2013-08-01,Camera-issued speed offences,Offences,48963.0
+2013-08-01,Drug specific offences,Offences,21.0
+2013-08-01,Mobile phone offences,Fines,100400.0
+2013-08-01,Mobile phone offences,Offences,1255.0
+2013-08-01,Officer-issued red light,Fines,139500.0
+2013-08-01,Officer-issued red light,Offences,930.0
+2013-08-01,Restraints,Fines,709350.0
+2013-08-01,Restraints,Offences,4729.0
+2013-09-01,Alcohol specific offences,Fines,10200.0
+2013-09-01,Alcohol specific offences,Offences,1969.0
+2013-09-01,Camera-issued speed offences,Fines,3523550.0
+2013-09-01,Camera-issued speed offences,Offences,47313.0
+2013-09-01,Drug specific offences,Offences,21.0
+2013-09-01,Mobile phone offences,Fines,108960.0
+2013-09-01,Mobile phone offences,Offences,1362.0
+2013-09-01,Officer-issued red light,Fines,140550.0
+2013-09-01,Officer-issued red light,Offences,938.0
+2013-09-01,Restraints,Fines,676650.0
+2013-09-01,Restraints,Offences,4511.0
+2013-10-01,Alcohol specific offences,Fines,15200.0
+2013-10-01,Alcohol specific offences,Offences,2085.0
+2013-10-01,Camera-issued speed offences,Fines,3802070.0
+2013-10-01,Camera-issued speed offences,Offences,52702.0
+2013-10-01,Drug specific offences,Offences,29.0
+2013-10-01,Mobile phone offences,Fines,120080.0
+2013-10-01,Mobile phone offences,Offences,1501.0
+2013-10-01,Officer-issued red light,Fines,157500.0
+2013-10-01,Officer-issued red light,Offences,1050.0
+2013-10-01,Restraints,Fines,917550.0
+2013-10-01,Restraints,Offences,6117.0
+2013-11-01,Alcohol specific offences,Fines,14200.0
+2013-11-01,Alcohol specific offences,Offences,2037.0
+2013-11-01,Camera-issued speed offences,Fines,3617320.0
+2013-11-01,Camera-issued speed offences,Offences,45366.0
+2013-11-01,Drug specific offences,Offences,20.0
+2013-11-01,Mobile phone offences,Fines,118560.0
+2013-11-01,Mobile phone offences,Offences,1482.0
+2013-11-01,Officer-issued red light,Fines,174750.0
+2013-11-01,Officer-issued red light,Offences,1165.0
+2013-11-01,Restraints,Fines,941855.0
+2013-11-01,Restraints,Offences,6281.0
+2013-12-01,Alcohol specific offences,Fines,16800.0
+2013-12-01,Alcohol specific offences,Offences,2080.0
+2013-12-01,Camera-issued speed offences,Fines,5622510.0
+2013-12-01,Camera-issued speed offences,Offences,122687.0
+2013-12-01,Drug specific offences,Offences,20.0
+2013-12-01,Mobile phone offences,Fines,98960.0
+2013-12-01,Mobile phone offences,Offences,1237.0
+2013-12-01,Officer-issued red light,Fines,148050.0
+2013-12-01,Officer-issued red light,Offences,987.0
+2013-12-01,Restraints,Fines,842100.0
+2013-12-01,Restraints,Offences,5614.0
+2014-01-01,Alcohol specific offences,Fines,11200.0
+2014-01-01,Alcohol specific offences,Offences,1589.0
+2014-01-01,Camera-issued speed offences,Fines,6030690.0
+2014-01-01,Camera-issued speed offences,Offences,136555.0
+2014-01-01,Drug specific offences,Offences,17.0
+2014-01-01,Mobile phone offences,Fines,97840.0
+2014-01-01,Mobile phone offences,Offences,1223.0
+2014-01-01,Officer-issued red light,Fines,138600.0
+2014-01-01,Officer-issued red light,Offences,924.0
+2014-01-01,Restraints,Fines,828300.0
+2014-01-01,Restraints,Offences,5523.0
+2014-02-01,Alcohol specific offences,Fines,8e3
+2014-02-01,Alcohol specific offences,Offences,1493.0
+2014-02-01,Camera-issued speed offences,Fines,2996310.0
+2014-02-01,Camera-issued speed offences,Offences,39309.0
+2014-02-01,Drug specific offences,Offences,18.0
+2014-02-01,Mobile phone offences,Fines,118080.0
+2014-02-01,Mobile phone offences,Offences,1477.0
+2014-02-01,Officer-issued red light,Fines,122850.0
+2014-02-01,Officer-issued red light,Offences,820.0
+2014-02-01,Restraints,Fines,719100.0
+2014-02-01,Restraints,Offences,4794.0
+2014-03-01,Alcohol specific offences,Fines,10400.0
+2014-03-01,Alcohol specific offences,Offences,1774.0
+2014-03-01,Camera-issued speed offences,Fines,3513690.0
+2014-03-01,Camera-issued speed offences,Offences,44264.0
+2014-03-01,Drug specific offences,Offences,16.0
+2014-03-01,Mobile phone offences,Fines,130880.0
+2014-03-01,Mobile phone offences,Offences,1636.0
+2014-03-01,Officer-issued red light,Fines,170850.0
+2014-03-01,Officer-issued red light,Offences,1139.0
+2014-03-01,Restraints,Fines,793500.0
+2014-03-01,Restraints,Offences,5290.0
+2014-04-01,Alcohol specific offences,Fines,11600.0
+2014-04-01,Alcohol specific offences,Offences,1577.0
+2014-04-01,Camera-issued speed offences,Fines,3795860.0
+2014-04-01,Camera-issued speed offences,Offences,68230.0
+2014-04-01,Drug specific offences,Offences,13.0
+2014-04-01,Mobile phone offences,Fines,121040.0
+2014-04-01,Mobile phone offences,Offences,1513.0
+2014-04-01,Officer-issued red light,Fines,199500.0
+2014-04-01,Officer-issued red light,Offences,1330.0
+2014-04-01,Restraints,Fines,671850.0
+2014-04-01,Restraints,Offences,4479.0
+2014-05-01,Alcohol specific offences,Fines,11200.0
+2014-05-01,Alcohol specific offences,Offences,1877.0
+2014-05-01,Camera-issued speed offences,Fines,3810890.0
+2014-05-01,Camera-issued speed offences,Offences,51645.0
+2014-05-01,Drug specific offences,Offences,17.0
+2014-05-01,Mobile phone offences,Fines,175120.0
+2014-05-01,Mobile phone offences,Offences,2189.0
+2014-05-01,Officer-issued red light,Fines,185550.0
+2014-05-01,Officer-issued red light,Offences,1237.0
+2014-05-01,Restraints,Fines,735300.0
+2014-05-01,Restraints,Offences,4902.0
+2014-06-01,Alcohol specific offences,Fines,7400.0
+2014-06-01,Alcohol specific offences,Offences,1632.0
+2014-06-01,Camera-issued speed offences,Fines,3277120.0
+2014-06-01,Camera-issued speed offences,Offences,46100.0
+2014-06-01,Drug specific offences,Offences,15.0
+2014-06-01,Mobile phone offences,Fines,134160.0
+2014-06-01,Mobile phone offences,Offences,1677.0
+2014-06-01,Officer-issued red light,Fines,174300.0
+2014-06-01,Officer-issued red light,Offences,1162.0
+2014-06-01,Restraints,Fines,564e3
+2014-06-01,Restraints,Offences,3760.0
+2014-07-01,Alcohol specific offences,Fines,9600.0
+2014-07-01,Alcohol specific offences,Offences,1678.0
+2014-07-01,Camera-issued speed offences,Fines,3321590.0
+2014-07-01,Camera-issued speed offences,Offences,41276.0
+2014-07-01,Drug specific offences,Offences,16.0
+2014-07-01,Mobile phone offences,Fines,128640.0
+2014-07-01,Mobile phone offences,Offences,1638.0
+2014-07-01,Officer-issued red light,Fines,178500.0
+2014-07-01,Officer-issued red light,Offences,1213.0
+2014-07-01,Restraints,Fines,623550.0
+2014-07-01,Restraints,Offences,4184.0
+2014-08-01,Alcohol specific offences,Fines,8800.0
+2014-08-01,Alcohol specific offences,Offences,1837.0
+2014-08-01,Camera-issued speed offences,Fines,3148600.0
+2014-08-01,Camera-issued speed offences,Offences,42268.0
+2014-08-01,Drug specific offences,Offences,14.0
+2014-08-01,Mobile phone offences,Fines,132800.0
+2014-08-01,Mobile phone offences,Offences,1706.0
+2014-08-01,Officer-issued red light,Fines,173400.0
+2014-08-01,Officer-issued red light,Offences,1171.0
+2014-08-01,Restraints,Fines,700500.0
+2014-08-01,Restraints,Offences,4727.0
+2014-09-01,Alcohol specific offences,Fines,8400.0
+2014-09-01,Alcohol specific offences,Offences,1621.0
+2014-09-01,Camera-issued speed offences,Fines,3927380.0
+2014-09-01,Camera-issued speed offences,Offences,50578.0
+2014-09-01,Drug specific offences,Offences,22.0
+2014-09-01,Mobile phone offences,Fines,156160.0
+2014-09-01,Mobile phone offences,Offences,1989.0
+2014-09-01,Officer-issued red light,Fines,158700.0
+2014-09-01,Officer-issued red light,Offences,1092.0
+2014-09-01,Restraints,Fines,749100.0
+2014-09-01,Restraints,Offences,5055.0
+2014-10-01,Alcohol specific offences,Fines,8600.0
+2014-10-01,Alcohol specific offences,Offences,1763.0
+2014-10-01,Camera-issued speed offences,Fines,3850820.0
+2014-10-01,Camera-issued speed offences,Offences,53789.0
+2014-10-01,Drug specific offences,Offences,17.0
+2014-10-01,Mobile phone offences,Fines,160560.0
+2014-10-01,Mobile phone offences,Offences,2060.0
+2014-10-01,Officer-issued red light,Fines,174e3
+2014-10-01,Officer-issued red light,Offences,1176.0
+2014-10-01,Restraints,Fines,794550.0
+2014-10-01,Restraints,Offences,5374.0
+2014-11-01,Alcohol specific offences,Fines,8600.0
+2014-11-01,Alcohol specific offences,Offences,1710.0
+2014-11-01,Camera-issued speed offences,Fines,3526800.0
+2014-11-01,Camera-issued speed offences,Offences,44389.0
+2014-11-01,Drug specific offences,Offences,20.0
+2014-11-01,Mobile phone offences,Fines,162640.0
+2014-11-01,Mobile phone offences,Offences,2077.0
+2014-11-01,Officer-issued red light,Fines,200400.0
+2014-11-01,Officer-issued red light,Offences,1347.0
+2014-11-01,Restraints,Fines,704250.0
+2014-11-01,Restraints,Offences,4762.0
+2014-12-01,Alcohol specific offences,Fines,170400.0
+2014-12-01,Alcohol specific offences,Offences,2418.0
+2014-12-01,Camera-issued speed offences,Fines,6569700.0
+2014-12-01,Camera-issued speed offences,Offences,149107.0
+2014-12-01,Drug specific offences,Offences,24.0
+2014-12-01,Mobile phone offences,Fines,153200.0
+2014-12-01,Mobile phone offences,Offences,1962.0
+2014-12-01,Officer-issued red light,Fines,150150.0
+2014-12-01,Officer-issued red light,Offences,1036.0
+2014-12-01,Restraints,Fines,673650.0
+2014-12-01,Restraints,Offences,4583.0
+2015-01-01,Alcohol specific offences,Fines,161900.0
+2015-01-01,Alcohol specific offences,Offences,2230.0
+2015-01-01,Camera-issued speed offences,Fines,6453660.0
+2015-01-01,Camera-issued speed offences,Offences,146623.0
+2015-01-01,Drug specific offences,Offences,25.0
+2015-01-01,Mobile phone offences,Fines,146e3
+2015-01-01,Mobile phone offences,Offences,1884.0
+2015-01-01,Officer-issued red light,Fines,144900.0
+2015-01-01,Officer-issued red light,Offences,988.0
+2015-01-01,Restraints,Fines,775650.0
+2015-01-01,Restraints,Offences,5260.0
+2015-02-01,Alcohol specific offences,Fines,134400.0
+2015-02-01,Alcohol specific offences,Offences,1930.0
+2015-02-01,Camera-issued speed offences,Fines,2643900.0
+2015-02-01,Camera-issued speed offences,Offences,31668.0
+2015-02-01,Drug specific offences,Offences,17.0
+2015-02-01,Mobile phone offences,Fines,157760.0
+2015-02-01,Mobile phone offences,Offences,2043.0
+2015-02-01,Officer-issued red light,Fines,131100.0
+2015-02-01,Officer-issued red light,Offences,900.0
+2015-02-01,Restraints,Fines,685350.0
+2015-02-01,Restraints,Offences,4667.0
+2015-03-01,Alcohol specific offences,Fines,143500.0
+2015-03-01,Alcohol specific offences,Offences,2181.0
+2015-03-01,Camera-issued speed offences,Fines,3066430.0
+2015-03-01,Camera-issued speed offences,Offences,38004.0
+2015-03-01,Drug specific offences,Offences,17.0
+2015-03-01,Mobile phone offences,Fines,177840.0
+2015-03-01,Mobile phone offences,Offences,2293.0
+2015-03-01,Officer-issued red light,Fines,167850.0
+2015-03-01,Officer-issued red light,Offences,1136.0
+2015-03-01,Restraints,Fines,685350.0
+2015-03-01,Restraints,Offences,4673.0
+2015-04-01,Alcohol specific offences,Fines,135700.0
+2015-04-01,Alcohol specific offences,Offences,2043.0
+2015-04-01,Camera-issued speed offences,Fines,2933860.0
+2015-04-01,Camera-issued speed offences,Offences,41395.0
+2015-04-01,Drug specific offences,Offences,25.0
+2015-04-01,Mobile phone offences,Fines,163520.0
+2015-04-01,Mobile phone offences,Offences,2099.0
+2015-04-01,Officer-issued red light,Fines,171750.0
+2015-04-01,Officer-issued red light,Offences,1165.0
+2015-04-01,Restraints,Fines,567e3
+2015-04-01,Restraints,Offences,3857.0
+2015-05-01,Alcohol specific offences,Fines,149800.0
+2015-05-01,Alcohol specific offences,Offences,2289.0
+2015-05-01,Camera-issued speed offences,Fines,2761990.0
+2015-05-01,Camera-issued speed offences,Offences,37009.0
+2015-05-01,Drug specific offences,Offences,26.0
+2015-05-01,Mobile phone offences,Fines,176400.0
+2015-05-01,Mobile phone offences,Offences,2276.0
+2015-05-01,Officer-issued red light,Fines,185250.0
+2015-05-01,Officer-issued red light,Offences,1258.0
+2015-05-01,Restraints,Fines,572700.0
+2015-05-01,Restraints,Offences,3927.0
+2015-06-01,Alcohol specific offences,Fines,131400.0
+2015-06-01,Alcohol specific offences,Offences,1986.0
+2015-06-01,Camera-issued speed offences,Fines,2251460.0
+2015-06-01,Camera-issued speed offences,Offences,30257.0
+2015-06-01,Drug specific offences,Offences,29.0
+2015-06-01,Mobile phone offences,Fines,158640.0
+2015-06-01,Mobile phone offences,Offences,2022.0
+2015-06-01,Officer-issued red light,Fines,168300.0
+2015-06-01,Officer-issued red light,Offences,1142.0
+2015-06-01,Restraints,Fines,467850.0
+2015-06-01,Restraints,Offences,3198.0
+2015-07-01,Alcohol specific offences,Fines,126400.0
+2015-07-01,Alcohol specific offences,Offences,2074.0
+2015-07-01,Camera-issued speed offences,Fines,2161480.0
+2015-07-01,Camera-issued speed offences,Offences,26096.0
+2015-07-01,Drug specific offences,Offences,38.0
+2015-07-01,Mobile phone offences,Fines,170080.0
+2015-07-01,Mobile phone offences,Offences,2200.0
+2015-07-01,Officer-issued red light,Fines,172200.0
+2015-07-01,Officer-issued red light,Offences,1169.0
+2015-07-01,Restraints,Fines,515700.0
+2015-07-01,Restraints,Offences,3521.0
+2015-08-01,Alcohol specific offences,Fines,155100.0
+2015-08-01,Alcohol specific offences,Offences,2336.0
+2015-08-01,Camera-issued speed offences,Fines,2161290.0
+2015-08-01,Camera-issued speed offences,Offences,27544.0
+2015-08-01,Drug specific offences,Offences,37.0
+2015-08-01,Mobile phone offences,Fines,153200.0
+2015-08-01,Mobile phone offences,Offences,1983.0
+2015-08-01,Officer-issued red light,Fines,166050.0
+2015-08-01,Officer-issued red light,Offences,1128.0
+2015-08-01,Restraints,Fines,547350.0
+2015-08-01,Restraints,Offences,3747.0
+2015-09-01,Alcohol specific offences,Fines,127300.0
+2015-09-01,Alcohol specific offences,Offences,2082.0
+2015-09-01,Camera-issued speed offences,Fines,2370420.0
+2015-09-01,Camera-issued speed offences,Offences,28722.0
+2015-09-01,Drug specific offences,Offences,20.0
+2015-09-01,Mobile phone offences,Fines,333680.0
+2015-09-01,Mobile phone offences,Offences,4266.0
+2015-09-01,Officer-issued red light,Fines,174300.0
+2015-09-01,Officer-issued red light,Offences,1177.0
+2015-09-01,Restraints,Fines,733050.0
+2015-09-01,Restraints,Offences,5016.0
+2015-10-01,Alcohol specific offences,Fines,161200.0
+2015-10-01,Alcohol specific offences,Offences,2442.0
+2015-10-01,Camera-issued speed offences,Fines,3352640.0
+2015-10-01,Camera-issued speed offences,Offences,45140.0
+2015-10-01,Drug specific offences,Offences,42.0
+2015-10-01,Mobile phone offences,Fines,198240.0
+2015-10-01,Mobile phone offences,Offences,2548.0
+2015-10-01,Officer-issued red light,Fines,151200.0
+2015-10-01,Officer-issued red light,Offences,1035.0
+2015-10-01,Restraints,Fines,640800.0
+2015-10-01,Restraints,Offences,4394.0
+2015-11-01,Alcohol specific offences,Fines,137400.0
+2015-11-01,Alcohol specific offences,Offences,2123.0
+2015-11-01,Camera-issued speed offences,Fines,3182030.0
+2015-11-01,Camera-issued speed offences,Offences,37608.0
+2015-11-01,Drug specific offences,Offences,28.0
+2015-11-01,Mobile phone offences,Fines,183120.0
+2015-11-01,Mobile phone offences,Offences,2355.0
+2015-11-01,Officer-issued red light,Fines,151350.0
+2015-11-01,Officer-issued red light,Offences,1036.0
+2015-11-01,Restraints,Fines,561300.0
+2015-11-01,Restraints,Offences,3849.0
+2015-12-01,Alcohol specific offences,Fines,166100.0
+2015-12-01,Alcohol specific offences,Offences,2423.0
+2015-12-01,Camera-issued speed offences,Fines,6272630.0
+2015-12-01,Camera-issued speed offences,Offences,148027.0
+2015-12-01,Drug specific offences,Offences,32.0
+2015-12-01,Mobile phone offences,Fines,156640.0
+2015-12-01,Mobile phone offences,Offences,2006.0
+2015-12-01,Officer-issued red light,Fines,139200.0
+2015-12-01,Officer-issued red light,Offences,960.0
+2015-12-01,Restraints,Fines,583650.0
+2015-12-01,Restraints,Offences,4002.0
+2016-01-01,Alcohol specific offences,Fines,143100.0
+2016-01-01,Alcohol specific offences,Offences,2082.0
+2016-01-01,Camera-issued speed offences,Fines,5785020.0
+2016-01-01,Camera-issued speed offences,Offences,134921.0
+2016-01-01,Drug specific offences,Offences,23.0
+2016-01-01,Mobile phone offences,Fines,134880.0
+2016-01-01,Mobile phone offences,Offences,1734.0
+2016-01-01,Officer-issued red light,Fines,132e3
+2016-01-01,Officer-issued red light,Offences,904.0
+2016-01-01,Restraints,Fines,566100.0
+2016-01-01,Restraints,Offences,3880.0
+2016-02-01,Alcohol specific offences,Fines,132400.0
+2016-02-01,Alcohol specific offences,Offences,1914.0
+2016-02-01,Camera-issued speed offences,Fines,2797740.0
+2016-02-01,Camera-issued speed offences,Offences,32555.0
+2016-02-01,Drug specific offences,Offences,15.0
+2016-02-01,Mobile phone offences,Fines,181040.0
+2016-02-01,Mobile phone offences,Offences,2317.0
+2016-02-01,Officer-issued red light,Fines,148350.0
+2016-02-01,Officer-issued red light,Offences,1019.0
+2016-02-01,Restraints,Fines,629550.0
+2016-02-01,Restraints,Offences,4295.0
+2016-03-01,Alcohol specific offences,Fines,142800.0
+2016-03-01,Alcohol specific offences,Offences,2117.0
+2016-03-01,Camera-issued speed offences,Fines,2813660.0
+2016-03-01,Camera-issued speed offences,Offences,38794.0
+2016-03-01,Drug specific offences,Offences,29.0
+2016-03-01,Mobile phone offences,Fines,225360.0
+2016-03-01,Mobile phone offences,Offences,2865.0
+2016-03-01,Officer-issued red light,Fines,168150.0
+2016-03-01,Officer-issued red light,Offences,1144.0
+2016-03-01,Restraints,Fines,929700.0
+2016-03-01,Restraints,Offences,6349.0
+2016-04-01,Alcohol specific offences,Fines,151800.0
+2016-04-01,Alcohol specific offences,Offences,2259.0
+2016-04-01,Camera-issued speed offences,Fines,2519080.0
+2016-04-01,Camera-issued speed offences,Offences,28623.0
+2016-04-01,Drug specific offences,Offences,29.0
+2016-04-01,Mobile phone offences,Fines,175520.0
+2016-04-01,Mobile phone offences,Offences,2268.0
+2016-04-01,Officer-issued red light,Fines,156e3
+2016-04-01,Officer-issued red light,Offences,1071.0
+2016-04-01,Restraints,Fines,589950.0
+2016-04-01,Restraints,Offences,4051.0
+2016-05-01,Alcohol specific offences,Fines,124400.0
+2016-05-01,Alcohol specific offences,Offences,1984.0
+2016-05-01,Camera-issued speed offences,Fines,2109980.0
+2016-05-01,Camera-issued speed offences,Offences,26839.0
+2016-05-01,Drug specific offences,Offences,37.0
+2016-05-01,Mobile phone offences,Fines,177040.0
+2016-05-01,Mobile phone offences,Offences,2264.0
+2016-05-01,Officer-issued red light,Fines,168e3
+2016-05-01,Officer-issued red light,Offences,1159.0
+2016-05-01,Restraints,Fines,515550.0
+2016-05-01,Restraints,Offences,3525.0
+2016-06-01,Alcohol specific offences,Fines,132200.0
+2016-06-01,Alcohol specific offences,Offences,2080.0
+2016-06-01,Camera-issued speed offences,Fines,2721290.0
+2016-06-01,Camera-issued speed offences,Offences,39478.0
+2016-06-01,Drug specific offences,Offences,44.0
+2016-06-01,Mobile phone offences,Fines,171440.0
+2016-06-01,Mobile phone offences,Offences,2182.0
+2016-06-01,Officer-issued red light,Fines,166650.0
+2016-06-01,Officer-issued red light,Offences,1146.0
+2016-06-01,Restraints,Fines,465900.0
+2016-06-01,Restraints,Offences,3191.0
+2016-07-01,Alcohol specific offences,Fines,125500.0
+2016-07-01,Alcohol specific offences,Offences,2148.0
+2016-07-01,Camera-issued speed offences,Fines,2923080.0
+2016-07-01,Camera-issued speed offences,Offences,33963.0
+2016-07-01,Drug specific offences,Offences,28.0
+2016-07-01,Mobile phone offences,Fines,201600.0
+2016-07-01,Mobile phone offences,Offences,2579.0
+2016-07-01,Officer-issued red light,Fines,179100.0
+2016-07-01,Officer-issued red light,Offences,1238.0
+2016-07-01,Restraints,Fines,599700.0
+2016-07-01,Restraints,Offences,4078.0
+2016-08-01,Alcohol specific offences,Fines,12e4
+2016-08-01,Alcohol specific offences,Offences,2035.0
+2016-08-01,Camera-issued speed offences,Fines,2286910.0
+2016-08-01,Camera-issued speed offences,Offences,27808.0
+2016-08-01,Drug specific offences,Offences,22.0
+2016-08-01,Mobile phone offences,Fines,230720.0
+2016-08-01,Mobile phone offences,Offences,2971.0
+2016-08-01,Officer-issued red light,Fines,170550.0
+2016-08-01,Officer-issued red light,Offences,1175.0
+2016-08-01,Restraints,Fines,691350.0
+2016-08-01,Restraints,Offences,4699.0
+2016-09-01,Alcohol specific offences,Fines,133300.0
+2016-09-01,Alcohol specific offences,Offences,2062.0
+2016-09-01,Camera-issued speed offences,Fines,2486390.0
+2016-09-01,Camera-issued speed offences,Offences,29995.0
+2016-09-01,Drug specific offences,Offences,15.0
+2016-09-01,Mobile phone offences,Fines,203520.0
+2016-09-01,Mobile phone offences,Offences,2561.0
+2016-09-01,Officer-issued red light,Fines,154650.0
+2016-09-01,Officer-issued red light,Offences,1036.0
+2016-09-01,Restraints,Fines,538650.0
+2016-09-01,Restraints,Offences,3615.0

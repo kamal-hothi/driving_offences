@@ -1,9 +1,11 @@
 ---
 title: "Driver offences NZ"
-output: html_notebook
+output:
+  pdf_document: default
+  html_notebook: default
 ---
 
-Driving offence data for NZ - sourced from police.govt.nz
+#####Driving offence data for NZ - sourced from police.govt.nz
 
 Original file -
 
@@ -11,9 +13,231 @@ The following code reads different sheets from the spreadsheet, combining data f
 
 Note - Sheets are hardcoded, hence tests must be done to double check total values.
 
-### Red Light Offences
 
-```{r red_light, echo=FALSE}
+```{r load_libraries, include=FALSE}
+suppressPackageStartupMessages(library(tidyverse))
+suppressPackageStartupMessages(library("readxl"))
+suppressPackageStartupMessages(library("ggplot2"))
+suppressPackageStartupMessages(library("ggthemes"))
+suppressPackageStartupMessages(library("lubridate"))
+```
 
+
+```{r globals, echo=TRUE}
+
+# General pattern for offence columns, the gap is to exclude year for consistent renaming. Update the range as new quarterly data comes through
+select_columns <- c(1:14,16:27,29:40,42:53,55:66,68:79,81:92,94:102)
+
+column_names <- c("area","sub_area",as.character(seq(as.Date("2009/1/1"), as.Date("2016/9/1"), "months")))
+
+# General function to restructure and reassign frames from different sheets
+restructureData <- function(dataFrame, typeOfOffence, countCategory){
+  column_names <- c("area","sub_area",as.character(seq(as.Date("2009/1/1"), as.Date("2016/9/1"), "months")))
+  
+  names(dataFrame) <- column_names
+  
+  dataFrame <- dataFrame %>% 
+    gather('month_year', 'count', -area, -sub_area) %>% 
+    mutate(month_year = as.Date(month_year), count = as.numeric(count))
+  
+  dataFrame[is.na(dataFrame)] <- 0
+  
+  dataFrame <- dataFrame %>% 
+    mutate(type_of_offence = typeOfOffence, count_category = countCategory)
+  
+  dataFrame
+}
+
+plot_data <- function(dataSet, plotTitle) {
+  ggplot(dataSet %>% 
+  group_by( month_year ) %>% 
+  filter( count_category=='Offences' ) %>% 
+  summarise( count = sum(count)), aes(x = month_year, y = count)) +
+  geom_line(color='red') + ylim(c(0, NA)) + theme_minimal(base_size=10) +
+  labs(title=plotTitle,
+       subtitle='From January 2009 to September 2016',
+       caption='police.govt.nz') +
+  xlab('Year') +
+  ylab('Number of offences')
+}
+```
+
+### Offences
+
+Wrangle individual offence sheet data and plot national summary chart for each.
+
+#####Red light running offences at intersections for both vehicles and pedestrians
+
+```{r red_light_officer_issued, echo=FALSE}
+
+#Red light running offences at intersections for both vehicles and pedestrians (seperated by officer issued and red light camera)
+
+red_light_sheet <- read_excel("../data/road-policing-driver-offence-data-jan2009-sep2006.xlsx", "Red Light")
+red_light_select <- red_light_sheet[,select_columns]
+
+
+offence_officer_red_light <- red_light_select[3:39,]
+fines_officer_red_light <- red_light_select[54:90,]
+
+offence_officer_red_light <- restructureData(offence_officer_red_light,"Officer-issued red light","Offences")
+fines_officer_red_light <- restructureData(fines_officer_red_light,"Officer-issued red light","Fines")
+
+red_light_offence_and_fines <- rbind(offence_officer_red_light, fines_officer_red_light)
+
+plot_data(red_light_offence_and_fines, "Officer-issued red light offences since 2009")
+```
+
+
+Offences for exceeding the speed limit detected by speed cameras.
+
+```{r speed_camera_issued, echo=FALSE}
+
+# Offences for exceeding the speed limit detected by speed cameras.
+
+speed_camera_sheet <-read_excel("../data/road-policing-driver-offence-data-jan2009-sep2006.xlsx","Camera-issued Speed")
+speed_camera_select <- speed_camera_sheet[,select_columns]
+
+speed_camera_offences <- speed_camera_select[3:39,]
+speed_camera_offences <- restructureData(speed_camera_offences,"Camera-issued speed offences","Offences")
+
+speed_camera_fines <- speed_camera_select[45:81,]
+speed_camera_fines <- restructureData(speed_camera_fines, "Camera-issued speed offences","Fines")
+
+speed_camera_offences_and_fines <- rbind(speed_camera_offences, speed_camera_fines)
+
+plot_data(speed_camera_offences_and_fines, "Speed camera offences since 2009")
+
+
+speed_camera_offences %>% filter(month_year >= "2015-10-01") %>% group_by(month_year) %>% 
+  summarise(count=sum(count))
+```
+
+
+All restraint use offences (seatbelt and child restraint), excludes restraint equipment offences
+
+```{r restraints, echo=FALSE}
+
+restraints_sheet <- read_excel("../data/road-policing-driver-offence-data-jan2009-sep2006.xlsx", "Restraints")
+restraints_select <- restraints_sheet[,select_columns]
+
+restraints_offences <- restraints_select[3:39,]
+restraints_offences <- restructureData(restraints_offences, "Restraints","Offences")
+
+restraints_fines <- restraints_select[45:81,]
+restraints_fines <- restructureData(restraints_fines, "Restraints","Fines")
+
+restraints_offences_and_fines <- rbind(restraints_offences, restraints_fines)
+
+plot_data(restraints_offences_and_fines, "Restraint use offences since 2009")
+```
+
+```{r alcohol_and_drug, echo=FALSE}
+
+alcohol_and_drugs_sheet <- read_excel("../data/road-policing-driver-offence-data-jan2009-sep2006.xlsx","Alcohol & Drugs")
+
+alcohol_and_drugs_select <- alcohol_and_drugs_sheet[,select_columns]
+alcohol_offences <- alcohol_and_drugs_select[3:39,]
+alcohol_offences <- restructureData(alcohol_offences, "Alcohol specific offences","Offences")
+
+drug_offences <- alcohol_and_drugs_select[45:81,]
+drug_offences <- restructureData(drug_offences, "Drug specific offences","Offences")
+
+alcohol_fines <- alcohol_and_drugs_select[87:123,]
+alcohol_fines <- restructureData(alcohol_fines,"Alcohol specific offences","Fines")
+
+alcohol_and_drugs_offences_and_fines <- rbind(alcohol_offences, drug_offences, alcohol_fines)
+
+plot_data(alcohol_offences,"Alcohol offences since 2009")
+```
+Offences for using a hand held device for calling or texting while driving
+
+
+```{r mobile_phone, echo=FALSE}
+
+mobile_phone_sheet <- read_excel("../data/road-policing-driver-offence-data-jan2009-sep2006.xlsx","Mobile phone")
+
+mobile_phone_select <- mobile_phone_sheet[,select_columns]
+
+mobile_phone_offences <- mobile_phone_select[3:39,]
+mobile_phone_offences <- restructureData(mobile_phone_offences, "Mobile phone offences","Offences")
+
+mobile_phone_fines <- mobile_phone_select[45:81,]
+mobile_phone_fines <- restructureData(mobile_phone_fines, "Mobile phone offences", "Fines")
+
+mobile_phone_offences_and_fines <- rbind(mobile_phone_offences, mobile_phone_fines)
+
+plot_data(mobile_phone_offences_and_fines,"Mobile phone offences since 2009")
+
+```
+
+```{r all_offences_and_fines}
+
+offences_and_fines <- rbind(alcohol_and_drugs_offences_and_fines, mobile_phone_offences_and_fines, red_light_offence_and_fines, restraints_offences_and_fines, speed_camera_offences_and_fines)
+
+write_csv(offences_and_fines,"../data/offences_and_fines.csv")
+
+write_csv(offences_and_fines %>% 
+  group_by(month_year, type_of_offence, count_category) %>% 
+  summarise(count =  sum(count)),"../data/national_offences_and_fines.csv")
+
+offences_and_fines$sub_area <- as.factor(offences_and_fines$sub_area)
+
+levels(offences_and_fines$sub_area) 
+
+for(geography in levels(offences_and_fines$sub_area)) {
+    temp <- offences_and_fines %>% filter(sub_area == geography)
+    filename <- tolower(paste("../../../../workbench/visualisations/police_fines/public/", gsub(" ","_", geography),".csv", sep=""))
+    filename <- gsub("-","_",filename)
+    write_csv(temp, filename)
+}
+
+alc_vs_mob <- c("Alcohol specific offences", "Mobile phone offences")
+
+offences_and_fines %>% filter(type_of_offence == alc_vs_mob) %>% 
+  filter(count_category=='Offences') %>%
+  filter(month_year > '2015-08-01') %>%  
+  group_by(type_of_offence, count_category) %>%
+  summarise(count=sum(count))
+
+```
+
+```{r fleeing_drivers}
+fleeing_drivers_sheet <- read_excel("../data/road-policing-driver-offence-data-jan2009-sep2006.xlsx","Fleeing Drivers")
+
+fleeing_drivers <- fleeing_drivers_sheet[,select_columns]
+
+fleeing_drivers_offences <- fleeing_drivers[3:14,]
+
+fleeing_drivers_offences <- Filter(function(x)!all(is.na(x)), fleeing_drivers_offences)
+
+column_names_fleeing <- c("area",as.character(seq(as.Date("2009/1/1"), as.Date("2016/9/1"), "months")))
+names(fleeing_drivers_offences) <- NULL
+
+names(fleeing_drivers_offences) <- column_names_fleeing
+
+fleeing_drivers_offences <- fleeing_drivers_offences %>% gather('date','count', -area) %>% 
+   mutate(date = as.Date(date), count = as.numeric(count))
+
+fleeing_drivers_offences[is.na(fleeing_drivers_offences)] <- 0
+
+
+fleeing_drivers_offences %>% mutate(year = year(date)) %>% group_by(area, year) %>% 
+  summarise(count=sum(count))
+
+offences_and_fines_by_year <- offences_and_fines %>%   mutate(year = year(month_year)) %>% filter(type_of_offence == alc_vs_mob) %>%
+group_by(year, type_of_offence, count_category) %>%
+summarise(count =  sum(count)) %>% ungroup() %>% spread(type_of_offence, count)
+
+offences_and_fines_by_year
+
+write_csv(offences_and_fines_by_year, "../data/offences_and_fines_by_year.csv")
+
+```
+
+```{r fines}
+offences_and_fines %>%   mutate(year = year(month_year)) %>%
+filter(count_category=="Fines") %>%
+group_by(year, type_of_offence, count_category) %>%
+summarise(count =  sum(count))  %>% ungroup() %>% group_by(year) %>% summarise(count=sum(count))
 ```
 
