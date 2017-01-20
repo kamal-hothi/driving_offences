@@ -246,3 +246,20 @@ group_by(year, type_of_offence, count_category) %>%
 summarise(count =  sum(count))  %>% ungroup() %>% group_by(year) %>% summarise(count=sum(count))
 ```
 
+
+```{r police_speeding}
+police_speeding <- read_excel("../data/road-policing-driver-offence-data-jan2009-sep2006.xlsx","Police Speeding")
+
+police_speeding_select <- police_speeding[,select_columns]
+
+police_speeding_offences <- police_speeding_select[3:39,]
+police_speeding_offences <- restructureData(police_speeding_offences, "Police speeding offences","Offences")
+
+police_speeding_fines <- police_speeding_select[45:81,]
+police_speeding_fines <- restructureData(police_speeding_fines, "Mobile phone offences", "Fines")
+
+police_speeding_offences_and_fines <- rbind(police_speeding_offences, police_speeding_fines)
+
+plot_data(police_speeding_offences_and_fines,"Police speeding offences since 2009")
+```
+
