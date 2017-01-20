@@ -191,13 +191,16 @@ for(geography in levels(offences_and_fines$sub_area)) {
     write_csv(temp, filename)
 }
 
-alc_vs_mob <- c("Alcohol specific offences", "Mobile phone offences")
-
-offences_and_fines %>% filter(type_of_offence == alc_vs_mob) %>% 
-  filter(count_category=='Offences') %>%
+offences_and_fines %>%
+  filter(count_category=='Fines') %>%
   filter(month_year > '2015-08-01') %>%  
   group_by(type_of_offence, count_category) %>%
   summarise(count=sum(count))
+
+
+offences_and_fines %>%   mutate(year = year(month_year)) %>% 
+group_by(year, type_of_offence, count_category) %>%
+summarise(count =  sum(count)) %>% ungroup() %>% spread(type_of_offence, count) %>% filter(count_category=="Offences")
 
 ```
 
@@ -224,13 +227,15 @@ fleeing_drivers_offences[is.na(fleeing_drivers_offences)] <- 0
 fleeing_drivers_offences %>% mutate(year = year(date)) %>% group_by(area, year) %>% 
   summarise(count=sum(count))
 
-offences_and_fines_by_year <- offences_and_fines %>%   mutate(year = year(month_year)) %>% filter(type_of_offence == alc_vs_mob) %>%
+offences_and_fines_by_year <- offences_and_fines %>%   mutate(year = year(month_year)) %>% 
 group_by(year, type_of_offence, count_category) %>%
 summarise(count =  sum(count)) %>% ungroup() %>% spread(type_of_offence, count)
 
-offences_and_fines_by_year
 
 write_csv(offences_and_fines_by_year, "../data/offences_and_fines_by_year.csv")
+
+
+offences_and_fines_by_year %>% filter(count_category=='Offences')
 
 ```
 
